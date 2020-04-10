@@ -11,5 +11,5 @@ a. Ingresar credenciales  github.com
 2. Actualizar proyecto local -> git pull origin master
 3. Crear ramas > git branch nombrerama
 4. Hacer commits > git commit -m "Mensaje de commit"
-4.a Antes hacer git add file.html
+4.a Antes hacer git add index.html
 5. Compartir cambios a github.com -> git push origin master
